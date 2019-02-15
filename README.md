@@ -1,2 +1,1 @@
-# hello-world
-My first repository to store ideas
+Repository for exercises of CB7!
