@@ -1,0 +1,23 @@
+/*
+  Find Largest and Smallest Number in an Array Example
+  This Java Example shows how to find largest and smallest number in an 
+  array.
+*/
+
+public class FindLargSmalNumber(){
+    
+    public static void main(String [] args ){
+    
+    // array of 10 numbers
+		int myArray [] = {12, 23, 45, 3, 7, 92, 110, 32, 56, -1};
+		
+		// assign first element of an array to largest and smallest
+		int smallest = numbers[0];
+		int largest = numbers[0];
+		
+		for (int=0; i< myArray.length;i++){
+				if (nmyArray[i]>largest){
+						largest = myArray[i];
+				}else{
+						
+							
