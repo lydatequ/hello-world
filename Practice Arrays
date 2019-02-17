@@ -1,0 +1,39 @@
+public class Arrays {
+
+		public static void main (String [] args){
+				//Different ways of writing arrays
+				int [] myArray = new int [10];
+				myArray[0]=2;
+				//or
+				int myArray1;
+				myArray1 [] = new int {2,3,5};
+				//or
+				int [] myArray2 = {2,3,4};
+				//or
+				int [] myArray3 = new int [4];
+				
+				for (int=0;i<myArray3.length;i++){
+						myArray3=i+1;
+				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			
+				
+				
+				
+        
+       
