@@ -1,1 +1,4 @@
-Repository for exercises of CB7!
+#hello-world
+- Java Classes
+- Arrays
+- For loops
